@@ -1,0 +1,16 @@
+torch==2.0.1
+transformers==4.29.0
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.3
+scikit-learn==1.2.2
+statsmodels==0.13.5
+tqdm==4.64.1
+requests==2.28.2
+Flask==2.2.3  # Web framework
+Flask-SQLAlchemy==2.5.1  # If you're using a database
+Flask-Cors==3.1.1  # For Cross-Origin Resource Sharing
+gunicorn==20.1.0  # For running the Flask app in production
+
+
+
